@@ -18,6 +18,7 @@ A simple JavaScript counter application that allows users to increment and decre
 
 ## 📁 Project Structure
 
+```
 /
 ├── index.html
 └── assets/
@@ -27,8 +28,7 @@ A simple JavaScript counter application that allows users to increment and decre
     │   └── script.js
     └── img/
         └── screenshot.png
-
-
+```
 
 ---
 
